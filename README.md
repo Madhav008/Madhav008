@@ -37,9 +37,8 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhav008&show_icons=true&locale=en&layout=compact" alt="madhav008" /></p>
-
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav008&show_icons=true&locale=en" alt="madhav008" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav008&show_icons=true&locale=en" alt="madhav008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav008&" alt="madhav008" /></p>
 

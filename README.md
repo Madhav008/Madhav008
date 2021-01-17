@@ -1,4 +1,3 @@
-<img src="http://ishandeveloper.com/ishandeveloper/hero.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A passionate Mobile developer from India</h3>

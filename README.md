@@ -1,5 +1,5 @@
 
-<img src="https://madhavjindal.000webhostapp.com/I'm%20Hari.png" alt="">
+<img src="https://madhavjindal.000webhostapp.com/I'm%20Hari.png" width="100%">
 <h3 align="center">A passionate Mobile developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav008&label=Profile%20views&color=0e75b6&style=flat" alt="madhav008" /> </p>
@@ -37,8 +37,9 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhav008&show_icons=true&locale=en&layout=compact" alt="madhav008" /></p>
-<br>
-<br>
+
+#
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav008&show_icons=true&locale=en" alt="madhav008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav008&" alt="madhav008" /></p>

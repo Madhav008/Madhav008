@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/madhavj06191973" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="madhavj06191973" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hari-om-306b411bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hari-om-306b411bb/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/madhav.jindal.33/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/madhav.jindal.33/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hari-om-306b411bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hari-om-306b411bb/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/madhav.jindal.33/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/madhav.jindal.33/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

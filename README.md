@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/madhavj06191973" target="blank"><img src="https://img.shields.io/twitter/follow/madhavj06191973?logo=twitter&style=for-the-badge" alt="madhavj06191973" /></a> </p>
 
-- 🔭 I’m currently working on **Royal Trade**
+- 🔭 I’m currently working on **Fantsy Cricket 🏏 App**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Spring**
 
 - 👯 I’m looking to collaborate on **Flutter**
 
